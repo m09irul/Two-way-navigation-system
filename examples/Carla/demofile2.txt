@@ -1,0 +1,39 @@
+ChatCompletionMessage(content='Turn right at the upcoming intersection; after the traffic light.', role='assistant', function_call=None, tool_calls=None)
+ChatCompletionMessage(content='Turn right at the upcoming intersection; the traffic light is green.', role='assistant', function_call=None, tool_calls=None)
+*ChatCompletionMessage(content='Continue straight; no immediate right turn available. Await further instructions.', role='assistant', function_call=None, tool_calls=None)
+ChatCompletionMessage(content='Turn right at the upcoming intersection, just past the large square structure.', role='assistant', function_call=None, tool_calls=None)
+ChatCompletionMessage(content='Turn right at the upcoming intersection after the traffic lights.', role='assistant', function_call=None, tool_calls=None)
+ChatCompletionMessage(content='Turn right now, follow the arrow on the road.', role='assistant', function_call=None, tool_calls=None)
+
+T:4
+ChatCompletionMessage(content='Turn right at the upcoming intersection, following the arrow sign on the road.', role='assistant', function_call=None, tool_calls=None)
+
+ChatCompletionMessage(content='Turn right at the upcoming intersection, just ahead.', role='assistant', function_call=None, tool_calls=None)
+
+T:5
+ChatCompletionMessage(content='Turn left at the intersection after the stop sign.', role='assistant', function_call=None, tool_calls=None)
+
+*ChatCompletionMessage(content='Turn left at the upcoming intersection, just before the overpass.', role='assistant', function_call=None, tool_calls=None)
+*ChatCompletionMessage(content='Turn left at the upcoming intersection, just after the building with the curved corner.', role='assistant', function_call=None, tool_calls=None)
+ChatCompletionMessage(content='Turn left at the upcoming intersection with the traffic lights.', role='assistant', function_call=None, tool_calls=None)
+
+*ChatCompletionMessage(content="Continue straight; no turn right visible yet. I'll update you shortly.", role='assistant', function_call=None, tool_calls=None)
+*ChatCompletionMessage(content='Turn right at the upcoming intersection after the traffic light.', role='assistant', function_call=None, tool_calls=None)
+*ChatCompletionMessage(content='Continue straight, turn right at the upcoming intersection after the traffic lights.', role='assistant', function_call=None, tool_calls=None)
+ChatCompletionMessage(content='Turn right at the upcoming intersection with traffic lights.', role='assistant', function_call=None, tool_calls=None)
+
+T:1
+ChatCompletionMessage(content='Turn left at the upcoming traffic light.', role='assistant', function_call=None, tool_calls=None)
+
+ChatCompletionMessage(content='Continue straight; turn left at the next intersection after the traffic light.', role='assistant', function_call=None, tool_calls=None)
+
+ChatCompletionMessage(content='Turn right after passing the traffic light ahead.', role='assistant', function_call=None, tool_calls=None)
+
+13 runs. 
+5 errors.
+
+Tedst image: wide angle view
+
+ChatCompletionMessage(content='Turn left at the upcoming intersection just past the white buildings.', role='assistant', function_call=None, tool_calls=None)
+ChatCompletionMessage(content='White apartment building on right, row of trees on left, red fire hydrant near sidewalk, wet road, hazy sunlight.', role='assistant', function_call=None, tool_calls=None)
+ChatCompletionMessage(content='Turn left at the junction after the row of pine trees, before the white apartment buildings.', role='assistant', function_call=None, tool_calls=None)

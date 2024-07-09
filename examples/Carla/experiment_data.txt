@@ -1,0 +1,168 @@
+The Euclidean distance between the master steer data and steer data of file 2 is: 18.97072139327084
+The Euclidean distance between the master steer data and steer data of file 3 is: 11.660780462967024
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 34.404213692984776
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 28.501420272900962
+The Euclidean distance between the master brake data and brake data of file 2 is: 24.176177231433385
+The Euclidean distance between the master brake data and brake data of file 3 is: 20.560988422797564
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 14.814935113562834
+The Euclidean distance between the master steer data and steer data of file 3 is: 15.279581851066467
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 37.283438787885146
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 36.91027394642802
+The Euclidean distance between the master brake data and brake data of file 2 is: 24.218442476961954
+The Euclidean distance between the master brake data and brake data of file 3 is: 17.373031100313682
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 15.348265138711893
+The Euclidean distance between the master steer data and steer data of file 3 is: 14.646226757733142
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 42.76410276593097
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 35.45963961401528
+The Euclidean distance between the master brake data and brake data of file 2 is: 17.373031100313682
+The Euclidean distance between the master brake data and brake data of file 3 is: 23.328774419210315
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 17.611332602103424
+The Euclidean distance between the master steer data and steer data of file 3 is: 8.036101837949529
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 35.469793608812026
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 27.069110521904012
+The Euclidean distance between the master brake data and brake data of file 2 is: 31.2393330499009
+The Euclidean distance between the master brake data and brake data of file 3 is: 17.373031100313682
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 17.53000415121537
+The Euclidean distance between the master steer data and steer data of file 3 is: 14.809676387245721
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 30.296502460919235
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 26.14297161175633
+The Euclidean distance between the master brake data and brake data of file 2 is: 29.71185060333896
+The Euclidean distance between the master brake data and brake data of file 3 is: 21.905079451625532
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 16.084537743535968
+The Euclidean distance between the master steer data and steer data of file 3 is: 17.840759207065023
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 31.723079259190865
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 25.545180967532374
+The Euclidean distance between the master brake data and brake data of file 2 is: 25.35425365529856
+The Euclidean distance between the master brake data and brake data of file 3 is: 17.373031100313682
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 13.476963622504222
+The Euclidean distance between the master steer data and steer data of file 3 is: 11.33824022279192
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 33.24723340692125
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 21.51564214950514
+The Euclidean distance between the master brake data and brake data of file 2 is: 22.12666464544748
+The Euclidean distance between the master brake data and brake data of file 3 is: 22.223642678454816
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 23.012690786605077
+The Euclidean distance between the master steer data and steer data of file 3 is: 12.82962773242791
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 28.63978385686296
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 23.495554215893034
+The Euclidean distance between the master brake data and brake data of file 2 is: 19.017281785757636
+The Euclidean distance between the master brake data and brake data of file 3 is: 17.373031100313682
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 19.782154764586657
+The Euclidean distance between the master steer data and steer data of file 3 is: 16.198338077117864
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 27.432347391807834
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 20.834497052707032
+The Euclidean distance between the master brake data and brake data of file 2 is: 17.373031100313682
+The Euclidean distance between the master brake data and brake data of file 3 is: 12.053564645660636
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 15.977671089755129
+The Euclidean distance between the master steer data and steer data of file 3 is: 11.837173116152293
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 43.7380345200742
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 29.164076295160836
+The Euclidean distance between the master brake data and brake data of file 2 is: 33.364285676382636
+The Euclidean distance between the master brake data and brake data of file 3 is: 20.74567017551473
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 13.422500828178418
+The Euclidean distance between the master steer data and steer data of file 3 is: 13.987502319873363
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 32.027459780458315
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 20.935783798681904
+The Euclidean distance between the master brake data and brake data of file 2 is: 24.29884536637441
+The Euclidean distance between the master brake data and brake data of file 3 is: 10.660986278070373
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 15.416867825188096
+The Euclidean distance between the master steer data and steer data of file 3 is: 12.366524948455291
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 33.479170951528495
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 28.877058572152652
+The Euclidean distance between the master brake data and brake data of file 2 is: 21.53502141616292
+The Euclidean distance between the master brake data and brake data of file 3 is: 17.03257688431234
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 18.423637508461685
+The Euclidean distance between the master steer data and steer data of file 3 is: 14.384035586521307
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 42.33351203275475
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 25.47607339062166
+The Euclidean distance between the master brake data and brake data of file 2 is: 27.856147317349425
+The Euclidean distance between the master brake data and brake data of file 3 is: 18.860465628843023
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 20.051562268151006
+The Euclidean distance between the master steer data and steer data of file 3 is: 12.257659426458266
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 32.11881327017484
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 31.004290524530703
+The Euclidean distance between the master brake data and brake data of file 2 is: 20.947064476681685
+The Euclidean distance between the master brake data and brake data of file 3 is: 17.373031100313682
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 16.275436783918632
+The Euclidean distance between the master steer data and steer data of file 3 is: 15.728396507518775
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 34.83655674786023
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 32.67114923188086
+The Euclidean distance between the master brake data and brake data of file 2 is: 17.373031100313682
+The Euclidean distance between the master brake data and brake data of file 3 is: 21.202170090393643
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 17.864426988712857
+The Euclidean distance between the master steer data and steer data of file 3 is: 10.072312930840782
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 35.76013645602706
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 30.42871215182962
+The Euclidean distance between the master brake data and brake data of file 2 is: 21.59012546865328
+The Euclidean distance between the master brake data and brake data of file 3 is: 17.373031100313682
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 16.18532899692904
+The Euclidean distance between the master steer data and steer data of file 3 is: 14.471148538135093
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 33.24723340692125
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 31.160067960140154
+The Euclidean distance between the master brake data and brake data of file 2 is: 17.373031100313682
+The Euclidean distance between the master brake data and brake data of file 3 is: 17.373031100313682
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 14.553720751762036
+The Euclidean distance between the master steer data and steer data of file 3 is: 14.206848156347135
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 42.2237467457374
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 29.76330514145186
+The Euclidean distance between the master brake data and brake data of file 2 is: 17.373031100313682
+The Euclidean distance between the master brake data and brake data of file 3 is: 17.373031100313682
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 12.897177396558114
+The Euclidean distance between the master steer data and steer data of file 3 is: 15.34457600215754
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 32.24189743040021
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 32.30182259231799
+The Euclidean distance between the master brake data and brake data of file 2 is: 17.373031100313682
+The Euclidean distance between the master brake data and brake data of file 3 is: 19.62749552952295
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 16.129427811163144
+The Euclidean distance between the master steer data and steer data of file 3 is: 11.291147824216134
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 32.511932843975465
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 21.764655069427064
+The Euclidean distance between the master brake data and brake data of file 2 is: 43.57708529623121
+The Euclidean distance between the master brake data and brake data of file 3 is: 19.148094287342822
+
+
+The Euclidean distance between the master steer data and steer data of file 2 is: 16.52489963091018
+The Euclidean distance between the master steer data and steer data of file 3 is: 13.86465582275742
+The Euclidean distance between the master acceleration data and acceleration data of file 2 is: 70.01899254247884
+The Euclidean distance between the master acceleration data and acceleration data of file 3 is: 50.45126674512944
+The Euclidean distance between the master brake data and brake data of file 2 is: 19.15503144577625
+The Euclidean distance between the master brake data and brake data of file 3 is: 17.37412670694998
+
+
